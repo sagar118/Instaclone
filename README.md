@@ -20,3 +20,5 @@ Next to start the backend and frontend to view to application:
 
 1. Run `npm start` (in root folder)
 2. Move to `client` folder and run `npm start`
+
+https://user-images.githubusercontent.com/24275587/213072169-90f02a4b-253c-4f81-b4df-4904e6156343.mov
